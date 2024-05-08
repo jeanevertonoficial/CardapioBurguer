@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+boby {
+    background-color: #F6F7F8;
+}
